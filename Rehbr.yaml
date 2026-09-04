@@ -1,0 +1,7 @@
+version: 1
+
+verify:
+  http:
+    enabled: true
+    path: /
+    expectStatus: 200
