@@ -4,4 +4,4 @@ verify:
   http:
     enabled: true
     path: /
-    expectStatus: 200
+    expectStatus: 201
